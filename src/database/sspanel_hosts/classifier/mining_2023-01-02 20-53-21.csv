@@ -1,0 +1,10 @@
+url,label
+https://27ssr.com/auth/register,Email Validation
+https://www.shidongli136.xyz/auth/register,Email Validation
+https://少数人.moe/auth/register,GeeTest Validation
+https://88xxa.one/auth/register,GeeTest Validation
+https://ark.to/auth/register,Google reCAPTCHA
+http://v2cloud.site/auth/register,危险通信(HTTP)
+https://www.bigfeng.club/auth/register,拒绝注册
+https://103.172.116.172/auth/register,未授权站点
+https://guangsu.buzz/auth/register,限制注册(邀请)
